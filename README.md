@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Adam, a Computing Student at the University of Dundee, Scotland.
+Feel free to reach out to me at my email attatched to this profile ;)!
 
 <!--
 **amathieson/amathieson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
